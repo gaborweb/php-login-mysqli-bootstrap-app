@@ -1,2 +1,2 @@
 # php-login-mysqli-bootstrap-app
-PHP CRUD app with MySQLi and Bootstrap.
+PHP CRUD app with AJAX, MySQLi and Bootstrap.
